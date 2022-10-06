@@ -11,5 +11,8 @@ public class Veiculo {
 	public float getVelocidade() { return 0;}
 	
 	public int getPassageiros() { return 0;}
+	
+	public int getTanqueCombustivel() { return 0;}
+
 
 }
